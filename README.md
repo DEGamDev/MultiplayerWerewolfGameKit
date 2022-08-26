@@ -1,32 +1,23 @@
-# MultiplayerWerewolfGameKit
+# WereWolf
 
-◆概要
-マルチプレイの人狼ゲームを作成するためのキットです。
+ドキュメント
+https://docs.google.com/document/d/e/2PACX-1vRYgCrFtbREhPetQ3vgKWpfAEEe3E8TP7TdrKGsin5_PFAAXMIHeu4up4dFSejbhu-NfDjNUXlhIMQ0/pub
 
-◆ゲーム説明
-プレイヤーはランダムで狼と村人に分かれます。
-狼は村人に見つからないように村人を殺害します。
-村人は狼に殺害されないようにタスクを完了します。
+クレジット
 
-・狼の勝利条件
-村人の生存人数を狼の生存人数と同じにする。
-妨害により緊急タイマーの残り時間を0にする。
+	テクスチャ
+https://icooon-mono.com/
 
-・村人の勝利条件
-狼を全員追放する。
-全てのタスクを完了する。
+	音声
+【効果音ラボ】
+https://soundeffect-lab.info/
+【Interface & Item Sounds Pack】
+https://www.unrealengine.com/marketplace/ja/product/interface-item-sounds-pack
 
-◆操作方法
-・共通
-移動　WASD
-視点移動　マウス移動
-死体の通報　マウスの右ボタン
-緊急ボタンを押す　マウスの右ボタン
-緊急タスクを開く　マウスの右ボタン
-
-・村人
-タスクを開く　マウスの右ボタン
-
-・狼
-殺害　Q
-ハッチに入る/出る　V
+	3Dモデル
+【Among Us - Map "The Skeld"】
+https://sketchfab.com/3d-models/among-us-map-the-skeld-59a93886f9e74ff6836dff0c269da45f
+【Free Fantasy Weapon Sample Pack】
+https://www.unrealengine.com/marketplace/en-US/product/e4494c76c3b348aba7ef9b263a6dd496?sessionInvalidated=true
+【low-poly keycard Free low-poly 3D model】
+https://www.cgtrader.com/free-3d-models/industrial/tool/low-poly-keycard
